@@ -1,0 +1,10 @@
+{
+    "gamesList": [
+      {
+        "title": "Battlegrounds",
+        "package": "com.pubg.imobile",
+        "version": "4.3.0",
+        "status": "Safe"
+      }
+  ]
+}
